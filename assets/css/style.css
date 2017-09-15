@@ -80,6 +80,9 @@ p {
   float: left;
   margin: 0 10px 10px 0;
 }
+#mypic {
+  max-height: 200px;
+}
 footer {
   padding: 1rem;
   background-color: #666666; 
